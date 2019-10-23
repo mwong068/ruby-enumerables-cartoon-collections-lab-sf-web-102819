@@ -24,6 +24,7 @@ def find_the_cheese(array)
       else if ingredients === cheese_types[2]
         return cheese_types[2]
       end
+     end
     end
   nil
 end
